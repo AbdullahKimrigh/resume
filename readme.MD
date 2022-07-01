@@ -31,7 +31,7 @@ Best practice of UX/UI definition in SDLC
 ## Occupation
 
 `Codingdojo` — DevOps Trainee by SDA
-'freelance' - Business Intellegience freelancer
+`Freelancer` — Business Intellegience freelancer
 
 ## Projects
 
